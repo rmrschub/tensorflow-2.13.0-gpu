@@ -1,0 +1,11 @@
+tensorflow
+tensorflow-probability
+tensorflow-datasets
+pandas
+seaborn
+scipy
+scikit-learn
+python-box
+ruamel.yaml
+dvc
+dvclive
