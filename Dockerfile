@@ -1,4 +1,4 @@
-ARG BASE_IMAGE=tensorflow/tensorflow:2.13.0-gpu
+ARG BASE_IMAGE=tensorflow/tensorflow:2.15.0-gpu
 
 FROM $BASE_IMAGE
 
